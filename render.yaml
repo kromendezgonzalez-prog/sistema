@@ -1,0 +1,44 @@
+# Blueprint de Render para la API de LOMUS · Mercaimpulso.
+# Render → New → Blueprint → elegir el repositorio. Los valores con `sync: false`
+# se piden en el panel la primera vez (nunca se guardan en el repositorio).
+services:
+  - type: web
+    name: mercaimpulso-api
+    runtime: node
+    region: oregon
+    plan: free
+    branch: main
+    autoDeploy: true
+    buildCommand: npm ci --include=dev && npm run build:shared && npm run build -w apps/api
+    startCommand: node apps/api/dist/index.js
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: TZ
+        value: America/Bogota
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: JWT_REFRESH_SECRET
+        sync: false
+      # Dominio(s) del frontend separados por comas, p. ej. https://mercaimpulso.xxx.workers.dev
+      - key: CORS_ORIGIN
+        sync: false
+      - key: CLOUDINARY_CLOUD_NAME
+        sync: false
+      - key: CLOUDINARY_API_KEY
+        sync: false
+      - key: CLOUDINARY_API_SECRET
+        sync: false
+      # Solo los usa `npm run seed`
+      - key: ADMIN_USER
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      # Opcional: si se define, el login exige Cloudflare Turnstile
+      - key: TURNSTILE_SECRET
+        sync: false

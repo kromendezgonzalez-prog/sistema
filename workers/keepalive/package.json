@@ -1,0 +1,12 @@
+{
+  "name": "@merca/keepalive",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Worker de Cloudflare con cron que despierta la API en Render (plan gratis) de 5:00 a 21:00 hora Colombia",
+  "main": "src/index.ts",
+  "scripts": {
+    "deploy": "npx wrangler deploy",
+    "dev": "npx wrangler dev --test-scheduled"
+  }
+}

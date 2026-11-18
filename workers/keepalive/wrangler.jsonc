@@ -1,0 +1,18 @@
+{
+  // Worker cron que mantiene despierta la API de Render (plan gratis).
+  // Desplegar: cd workers/keepalive && npx wrangler deploy
+  "name": "mercaimpulso-keepalive",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-11-01",
+  "workers_dev": true,
+  "triggers": {
+    // Los cron de Cloudflare van en UTC. Colombia = UTC−5 (sin horario de verano).
+    // 10:00–23:50 UTC = 5:00–18:50 Bogotá · 00:00–01:50 UTC = 19:00–20:50 Bogotá (hasta ~21:00)
+    "crons": ["*/10 10-23 * * *", "*/10 0-1 * * *"]
+  },
+  "vars": {
+    // Cambiar por la URL real del servicio en Render (sin "/" al final)
+    "API_URL": "https://mercaimpulso-api.onrender.com"
+  },
+  "observability": { "enabled": true }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@merca/scripts",
+  "private": true,
+  "type": "module",
+  "description": "Scripts de operación (seed, backup). Se ejecutan con tsx desde apps/api: npm run seed / npm run backup -w apps/api"
+}

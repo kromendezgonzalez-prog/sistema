@@ -1,0 +1,471 @@
+{
+  "catalogo": [
+    {
+      "cod": "33009",
+      "nombre": "SOLOMITO DE CERDO LOMUS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33014",
+      "nombre": "BONDIOLA EN BLOQUE",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33015",
+      "nombre": "LOMO DE CERDO EN BLOQUE",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33016",
+      "nombre": "OSOBUCO LOMUS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33017",
+      "nombre": "PUNTA DE ANCA DE CERDO",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33024",
+      "nombre": "TOCINETA EN BLOQUE",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33031",
+      "nombre": "COSTILLA ESPECIAL EN TIRAS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33032",
+      "nombre": "COSTILLA ST. LOUIS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33062",
+      "nombre": "TROCITOS DE COSTILLA LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33066",
+      "nombre": "COSTILLA ESPECIAL LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33067",
+      "nombre": "LOMO DE CERDO MARIPOSA LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33076",
+      "nombre": "COSTICHI LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33080",
+      "nombre": "CUBITOS DE CERDO LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33096",
+      "nombre": "TOCINETA EN TIRAS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33098",
+      "nombre": "FILETE DE BONDIOLA 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33100",
+      "nombre": "LOMO EN MEDALLONES / PORCIONADO 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33101",
+      "nombre": "FILETE DE PIERNA 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33102",
+      "nombre": "TIRAS DE CHICHARRÓN 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33126",
+      "nombre": "TROCITOS DE CHICHARRÓN LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33141",
+      "nombre": "PULPA DE CERDO LOMUS 400 g",
+      "unidad": "und",
+      "peso": 0.4,
+      "activo": true
+    },
+    {
+      "cod": "33142",
+      "nombre": "PEZUÑA DE CERDO LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33143",
+      "nombre": "ESPINAZO DE CERDO LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33175",
+      "nombre": "COSTILLA TRADICIONAL LOMUS 500 g",
+      "unidad": "und",
+      "peso": 0.5,
+      "activo": true
+    },
+    {
+      "cod": "33176",
+      "nombre": "ESPINAZO DE CERDO LOMUS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33177",
+      "nombre": "HUESO CARNUDO LOMUS",
+      "unidad": "kg",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33178",
+      "nombre": "COSTILLA BABY LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33199",
+      "nombre": "CHULETÓN DE BONDIOLA LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33200",
+      "nombre": "FAJITAS DE CERDO LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33201",
+      "nombre": "CHULETA VALLUNA LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33204",
+      "nombre": "FRIJOLADA LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33205",
+      "nombre": "SOPITA LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    },
+    {
+      "cod": "33206",
+      "nombre": "GOULASH LOMUS",
+      "unidad": "und",
+      "peso": null,
+      "activo": true
+    }
+  ],
+  "pdvs": [
+    {
+      "id": "alkosto",
+      "nombre": "Alkosto",
+      "cadena": "Alkosto",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "surtifamiliar",
+      "nombre": "Surtifamiliar",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "el-arriero",
+      "nombre": "El Arriero",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "surtifacil",
+      "nombre": "Surtifácil",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "la-economia",
+      "nombre": "La Economía",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "zupper",
+      "nombre": "Zupper",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "mercacentro-4",
+      "nombre": "Mercacentro 4",
+      "cadena": "Mercacentro",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "mercacentro-10",
+      "nombre": "Mercacentro 10",
+      "cadena": "Mercacentro",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "mercacentro-16",
+      "nombre": "Mercacentro 16",
+      "cadena": "Mercacentro",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "mercacentro-17",
+      "nombre": "Mercacentro 17",
+      "cadena": "Mercacentro",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "mercacentro-18",
+      "nombre": "Mercacentro 18",
+      "cadena": "Mercacentro",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "surtiplaza-aqua",
+      "nombre": "Surtiplaza Aqua",
+      "cadena": "Surtiplaza",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "surtiplaza-salado",
+      "nombre": "Surtiplaza Salado",
+      "cadena": "Surtiplaza",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "laureles",
+      "nombre": "Laureles",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "laureles-express",
+      "nombre": "Laureles Express",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "versalles",
+      "nombre": "Versalles",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "trujillo",
+      "nombre": "Trujillo",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "centro",
+      "nombre": "Centro",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "palermo",
+      "nombre": "Palermo",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "san-marcel",
+      "nombre": "San Marcel",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    },
+    {
+      "id": "terremoto",
+      "nombre": "Terremoto",
+      "cadena": "",
+      "ciudad": "",
+      "activo": true
+    }
+  ],
+  "equipo": [
+    {
+      "id": "milena",
+      "nombre": "Sandra Milena Ospina",
+      "rol": "impulsadora",
+      "ciudad": "",
+      "pdvs": [
+        "alkosto"
+      ],
+      "activo": true
+    },
+    {
+      "id": "evellyn",
+      "nombre": "Evellyn",
+      "rol": "impulsadora",
+      "ciudad": "",
+      "pdvs": [],
+      "activo": true
+    },
+    {
+      "id": "kacterine",
+      "nombre": "Kacterine",
+      "rol": "impulsadora",
+      "ciudad": "",
+      "pdvs": [
+        "surtifamiliar",
+        "el-arriero",
+        "surtifacil",
+        "la-economia",
+        "alkosto",
+        "zupper"
+      ],
+      "activo": true
+    },
+    {
+      "id": "angela",
+      "nombre": "Angela",
+      "rol": "impulsadora",
+      "ciudad": "",
+      "pdvs": [
+        "versalles",
+        "trujillo",
+        "centro",
+        "palermo",
+        "san-marcel",
+        "terremoto"
+      ],
+      "activo": true
+    },
+    {
+      "id": "kena",
+      "nombre": "Kena",
+      "rol": "impulsadora",
+      "ciudad": "",
+      "pdvs": [
+        "mercacentro-4",
+        "mercacentro-10",
+        "mercacentro-16",
+        "mercacentro-17",
+        "mercacentro-18",
+        "surtiplaza-aqua",
+        "surtiplaza-salado"
+      ],
+      "activo": true
+    },
+    {
+      "id": "niyi",
+      "nombre": "Niyi",
+      "rol": "impulsadora",
+      "ciudad": "",
+      "pdvs": [
+        "laureles",
+        "laureles-express"
+      ],
+      "activo": true
+    }
+  ],
+  "metas": {
+    "doh": 4,
+    "merma": 0.02,
+    "osa": 0.95,
+    "alertaVto": 5,
+    "sos": 0.3,
+    "conv": 0.15
+  },
+  "marcasCompetencia": [
+    "Colanta",
+    "Porcicarnes",
+    "Cervalle",
+    "Supercerdo",
+    "Zenú",
+    "Marca propia cadena",
+    "Otra"
+  ]
+}

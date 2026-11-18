@@ -1,0 +1,11 @@
+{
+  // Frontend: Cloudflare Workers con Static Assets (SPA)
+  "$schema": "../../node_modules/wrangler/config-schema.json",
+  "name": "mercaimpulso",
+  "account_id": "4374aa125ab9264f0b31b43d9afe9c5a",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
