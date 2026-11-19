@@ -1,5 +1,5 @@
 import { beforeAll, describe, expect, it } from 'vitest';
-import { leerSeedConfig, sembrar } from '../../../scripts/seed.js';
+import { leerSeedConfig, sembrar } from '../src/services/seed.js';
 import { ConfigModel, Pdv, Producto, Usuario } from '../src/models/index.js';
 import { verificarPassword } from '../src/utils/password.js';
 import { usarBaseDePruebas } from './helpers.js';
